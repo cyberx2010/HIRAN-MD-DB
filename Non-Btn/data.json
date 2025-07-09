@@ -230,5 +230,49 @@
         "cmd": ".readcmd off"
       }
     ]
+  },
+  {
+    "3EB0AD33CB991A8536DD4F": [
+      {
+        "cmdId": "1",
+        "cmd": ".songinfo https://youtube.com/watch?v=0geqOYqwL0s"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".songinfo https://youtube.com/watch?v=AFqtArWpv-w"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".songinfo https://youtube.com/watch?v=W1ZFAM1Yuhc"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".songinfo https://youtube.com/watch?v=l6t225_V1Ps"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".songinfo https://youtube.com/watch?v=hg3raXNCG14"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".songinfo https://youtube.com/watch?v=dOpW7ewpJwI"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".songinfo https://youtube.com/watch?v=AqJVn2hnfQg"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".songinfo https://youtube.com/watch?v=QZ9lXyrexv4"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".songinfo https://youtube.com/watch?v=R_OohLDGwz8"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".songinfo https://youtube.com/watch?v=qcKQCymbXWE"
+      }
+    ]
   }
 ]
