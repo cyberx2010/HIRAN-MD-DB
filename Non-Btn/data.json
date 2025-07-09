@@ -38,5 +38,17 @@
         "cmd": ".adminmenu"
       }
     ]
+  },
+  {
+    "3EB0700E1DB3EDBB67AA3B": [
+      {
+        "cmdId": "1",
+        "cmd": ".sc"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
   }
 ]
