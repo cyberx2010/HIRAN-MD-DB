@@ -506,5 +506,81 @@
         "cmd": ".sub_search https://sinhalasub.lk/movies/sur-2002-sinhala-subtitles/||Sur (2002) Sinhala Subtitles | සිංහල උපසිරසි සමඟ"
       }
     ]
+  },
+  {
+    "3EB08C7BDF53A4626EEA0F": [
+      {
+        "cmdId": "1.1",
+        "cmd": ".uploadsz 100"
+      },
+      {
+        "cmdId": "1.2",
+        "cmd": ".uploadsz j"
+      },
+      {
+        "cmdId": "2.1",
+        "cmd": ".alivemg default"
+      },
+      {
+        "cmdId": "2.2",
+        "cmd": ".alivemg j"
+      },
+      {
+        "cmdId": "3.1",
+        "cmd": ".footertxt > *© 𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ 𝐇ɪʀᴀɴ-𝐌ᴅ 🧚🪄*"
+      },
+      {
+        "cmdId": "3.2",
+        "cmd": ".footertxt j"
+      },
+      {
+        "cmdId": "4.1",
+        "cmd": ".mvfooter ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ ꜱʟᴍᴠ ᴀᴅᴍɪɴ"
+      },
+      {
+        "cmdId": "4.2",
+        "cmd": ".mvfooter j"
+      },
+      {
+        "cmdId": "5.1",
+        "cmd": ".setlogo https://files.catbox.moe/lmyrtr.jpeg"
+      },
+      {
+        "cmdId": "5.2",
+        "cmd": ".setlogo j"
+      },
+      {
+        "cmdId": "6.1",
+        "cmd": ".setprefix ."
+      },
+      {
+        "cmdId": "6.2",
+        "cmd": ".setprefix j"
+      },
+      {
+        "cmdId": "7.1",
+        "cmd": ".setownernumber 94768698018"
+      },
+      {
+        "cmdId": "7.2",
+        "cmd": ".setownernumber j"
+      },
+      {
+        "cmdId": "8.1",
+        "cmd": ".setmv j"
+      },
+      {
+        "cmdId": "9.1",
+        "cmd": ".setnews j"
+      },
+      {
+        "cmdId": "10.1",
+        "cmd": ".settiktok j"
+      },
+      {
+        "cmdId": "11.1",
+        "cmd": ".setsong j"
+      }
+    ]
   }
 ]
