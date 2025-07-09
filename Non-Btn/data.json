@@ -478,5 +478,33 @@
         "cmd": ".ping"
       }
     ]
+  },
+  {
+    "3EB0148A1D5B7CDDEEEC5E": [
+      {
+        "cmdId": "1",
+        "cmd": ".sub_search https://sinhalasub.lk/movies/rrr-2022-sinhala-subtitles/||RRR (2022) Sinhala Subtitles | සිංහල උපසිරසි සමඟ"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".sub_search https://sinhalasub.lk/movies/grrr-2024-sinhala-subtitles/||Grrr.. (2024) Sinhala Subtitles | සිංහල උපසිරසි සමඟ"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".sub_search https://sinhalasub.lk/movies/ponniyin-selvan-part-i-2022-sinhala-subtitles/||Ponniyin Selvan: Part I (2022) Sinhala Subtitles | සිංහල උපසිරසි සමඟ"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".sub_search https://sinhalasub.lk/movies/jailer-2023-sinhala-subtitles/||Jailer (2023) Sinhala Subtitles | සිංහල උපසිරසි සමඟ"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".sub_search https://sinhalasub.lk/movies/heart-of-stone-2023-sinhala-subtitles/||Heart of Stone (2023) Sinhala Subtitles | සිංහල උපසිරසි සමඟ"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".sub_search https://sinhalasub.lk/movies/sur-2002-sinhala-subtitles/||Sur (2002) Sinhala Subtitles | සිංහල උපසිරසි සමඟ"
+      }
+    ]
   }
 ]
