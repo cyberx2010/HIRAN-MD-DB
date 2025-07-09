@@ -658,5 +658,81 @@
         "cmd": ".setsong 120363403277447179@g.us"
       }
     ]
+  },
+  {
+    "3EB0C46416EAD394505EDD": [
+      {
+        "cmdId": "1.1",
+        "cmd": ".uploadsz 100"
+      },
+      {
+        "cmdId": "1.2",
+        "cmd": ".uploadsz 120363403277447179@g.us"
+      },
+      {
+        "cmdId": "2.1",
+        "cmd": ".alivemg default"
+      },
+      {
+        "cmdId": "2.2",
+        "cmd": ".alivemg 120363403277447179@g.us"
+      },
+      {
+        "cmdId": "3.1",
+        "cmd": ".footertxt > *© 𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ 𝐇ɪʀᴀɴ-𝐌ᴅ 🧚🪄*"
+      },
+      {
+        "cmdId": "3.2",
+        "cmd": ".footertxt 120363403277447179@g.us"
+      },
+      {
+        "cmdId": "4.1",
+        "cmd": ".mvfooter ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ ꜱʟᴍᴠ ᴀᴅᴍɪɴ"
+      },
+      {
+        "cmdId": "4.2",
+        "cmd": ".mvfooter 120363403277447179@g.us"
+      },
+      {
+        "cmdId": "5.1",
+        "cmd": ".setlogo https://files.catbox.moe/lmyrtr.jpeg"
+      },
+      {
+        "cmdId": "5.2",
+        "cmd": ".setlogo 120363403277447179@g.us"
+      },
+      {
+        "cmdId": "6.1",
+        "cmd": ".setprefix ."
+      },
+      {
+        "cmdId": "6.2",
+        "cmd": ".setprefix 120363403277447179@g.us"
+      },
+      {
+        "cmdId": "7.1",
+        "cmd": ".setownernumber 94768698018"
+      },
+      {
+        "cmdId": "7.2",
+        "cmd": ".setownernumber 120363403277447179@g.us"
+      },
+      {
+        "cmdId": "8.1",
+        "cmd": ".setmv 120363403277447179@g.us"
+      },
+      {
+        "cmdId": "9.1",
+        "cmd": ".setnews 120363403277447179@g.us"
+      },
+      {
+        "cmdId": "10.1",
+        "cmd": ".settiktok 120363403277447179@g.us"
+      },
+      {
+        "cmdId": "11.1",
+        "cmd": ".setsong 120363403277447179@g.us"
+      }
+    ]
   }
 ]
