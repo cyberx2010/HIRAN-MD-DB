@@ -734,5 +734,185 @@
         "cmd": ".setsong 120363403277447179@g.us"
       }
     ]
+  },
+  {
+    "3EB0322BB77B80B69884A6": [
+      {
+        "cmdId": "1.1",
+        "cmd": ".mode public"
+      },
+      {
+        "cmdId": "1.2",
+        "cmd": ".mode private"
+      },
+      {
+        "cmdId": "2.1",
+        "cmd": ".onlygroup on"
+      },
+      {
+        "cmdId": "2.2",
+        "cmd": ".onlygroup off"
+      },
+      {
+        "cmdId": "3.1",
+        "cmd": ".lang EN"
+      },
+      {
+        "cmdId": "3.2",
+        "cmd": ".lang SI"
+      },
+      {
+        "cmdId": "4.1",
+        "cmd": ".autoreply on"
+      },
+      {
+        "cmdId": "4.2",
+        "cmd": ".autoreply off"
+      },
+      {
+        "cmdId": "5.1",
+        "cmd": ".autovoice on"
+      },
+      {
+        "cmdId": "5.2",
+        "cmd": ".autovoice off"
+      },
+      {
+        "cmdId": "6.1",
+        "cmd": ".autosticker on"
+      },
+      {
+        "cmdId": "6.2",
+        "cmd": ".autosticker off"
+      },
+      {
+        "cmdId": "7.1",
+        "cmd": ".autotyping on"
+      },
+      {
+        "cmdId": "7.2",
+        "cmd": ".autotyping off"
+      },
+      {
+        "cmdId": "8.1",
+        "cmd": ".autorecording on"
+      },
+      {
+        "cmdId": "8.2",
+        "cmd": ".autorecording off"
+      },
+      {
+        "cmdId": "9.1",
+        "cmd": ".autoreact on"
+      },
+      {
+        "cmdId": "9.2",
+        "cmd": ".autoreact off"
+      },
+      {
+        "cmdId": "10.1",
+        "cmd": ".ownerreact on"
+      },
+      {
+        "cmdId": "10.2",
+        "cmd": ".ownerreact off"
+      },
+      {
+        "cmdId": "11.1",
+        "cmd": ".antidelete on"
+      },
+      {
+        "cmdId": "11.2",
+        "cmd": ".antidelete off"
+      },
+      {
+        "cmdId": "12.1",
+        "cmd": ".chatbot on"
+      },
+      {
+        "cmdId": "12.2",
+        "cmd": ".chatbot off"
+      },
+      {
+        "cmdId": "13.1",
+        "cmd": ".autoreadstatus on"
+      },
+      {
+        "cmdId": "13.2",
+        "cmd": ".autoreadstatus off"
+      },
+      {
+        "cmdId": "14.1",
+        "cmd": ".autoreactstatus on"
+      },
+      {
+        "cmdId": "14.2",
+        "cmd": ".autoreactstatus off"
+      },
+      {
+        "cmdId": "15.1",
+        "cmd": ".anticall on"
+      },
+      {
+        "cmdId": "15.2",
+        "cmd": ".anticall off"
+      },
+      {
+        "cmdId": "16.1",
+        "cmd": ".alwaysonline on"
+      },
+      {
+        "cmdId": "16.2",
+        "cmd": ".alwaysonline off"
+      },
+      {
+        "cmdId": "17.1",
+        "cmd": ".autoblock on"
+      },
+      {
+        "cmdId": "17.2",
+        "cmd": ".autoblock off"
+      },
+      {
+        "cmdId": "18.1",
+        "cmd": ".onlyme on"
+      },
+      {
+        "cmdId": "18.2",
+        "cmd": ".onlyme off"
+      },
+      {
+        "cmdId": "19.1",
+        "cmd": ".autobio on"
+      },
+      {
+        "cmdId": "19.2",
+        "cmd": ".autobio off"
+      },
+      {
+        "cmdId": "20.1",
+        "cmd": ".autonewssender on"
+      },
+      {
+        "cmdId": "20.2",
+        "cmd": ".autonewssender off"
+      },
+      {
+        "cmdId": "21.1",
+        "cmd": ".autotiktoksender on"
+      },
+      {
+        "cmdId": "21.2",
+        "cmd": ".autotiktoksender off"
+      },
+      {
+        "cmdId": "22.1",
+        "cmd": ".readcmd on"
+      },
+      {
+        "cmdId": "22.2",
+        "cmd": ".readcmd off"
+      }
+    ]
   }
 ]
