@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "3EB057D0D675BD8A2B6B69": [
+      {
+        "cmdId": "1",
+        "cmd": ".downmenu"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".moviemenu"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".searchmenu"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".convertmenu"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".logomenu"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".groupmenu"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".othermenu"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".ownermenu"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".adminmenu"
+      }
+    ]
+  }
+]
