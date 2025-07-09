@@ -274,5 +274,17 @@
         "cmd": ".songinfo https://youtube.com/watch?v=qcKQCymbXWE"
       }
     ]
+  },
+  {
+    "3EB0D158ECC32FB9846E57": [
+      {
+        "cmdId": "1",
+        "cmd": ".menu"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
   }
 ]
