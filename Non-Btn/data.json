@@ -466,5 +466,17 @@
         "cmd": ".readcmd off"
       }
     ]
+  },
+  {
+    "3EB049944DA4F94A1B4997": [
+      {
+        "cmdId": "1",
+        "cmd": ".menu"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
   }
 ]
